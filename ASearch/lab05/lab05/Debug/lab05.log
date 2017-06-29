@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\sm861\documents\visual studio 2015\projects\lab05\lab05\source.cpp(243): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\sm861\documents\visual studio 2015\projects\lab05\lab05\source.cpp(244): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\sm861\documents\visual studio 2015\projects\lab05\lab05\source.cpp(247): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\sm861\documents\visual studio 2015\projects\lab05\lab05\source.cpp(248): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\sm861\documents\visual studio 2015\projects\lab05\lab05\source.cpp(249): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\sm861\documents\visual studio 2015\projects\lab05\lab05\source.cpp(250): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  lab05.vcxproj -> C:\Users\sm861\Documents\Visual Studio 2015\Projects\lab05\Debug\lab05.exe
+  lab05.vcxproj -> C:\Users\sm861\Documents\Visual Studio 2015\Projects\lab05\Debug\lab05.pdb (Partial PDB)
