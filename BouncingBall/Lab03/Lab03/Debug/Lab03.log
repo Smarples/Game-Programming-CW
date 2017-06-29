@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\sm861\documents\visual studio 2015\projects\lab03\lab03\source.cpp(119): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lab03.vcxproj -> C:\Users\sm861\Documents\Visual Studio 2015\Projects\Lab03\Debug\Lab03.exe
+  Lab03.vcxproj -> C:\Users\sm861\Documents\Visual Studio 2015\Projects\Lab03\Debug\Lab03.pdb (Partial PDB)
